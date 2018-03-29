@@ -1,7 +1,7 @@
 Car Popularity Prediction
 (This dataset came in the GS Codesprint 2018)
 
-Problem Statement - We are given certain data about cars , and we had to predict the popularity of the cars. 
+Problem Statement - We were given certain data about cars , and we had to predict the popularity of the cars. 
 
 Data to predict – popularity (of cars)
 
@@ -17,6 +17,8 @@ To preprocess the data open data_preprocess.py , this will help in finding all k
 
 For finding the model that would fit this dataset and produce the output csv file go to model_fit.py and run it.
 The output csv file will be generated in the folder where model_fit.py is present.
+
+Output - Prediction is the file which contains the output which was submitted.
 
 
 Libraries Used:
