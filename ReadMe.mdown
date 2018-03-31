@@ -7,12 +7,12 @@
 **Data to predict** – popularity (of cars)
 
 **Predictors** – 
-buying_price
-Maintainance_cost
-number_of_doors
-number_of_seats
-luggage_boot_size
-safety_rating
+* buying_price
+* Maintainance_cost
+* number_of_doors
+* number_of_seats
+* luggage_boot_size
+* safety_rating
 
 To preprocess the data open data_preprocess.py , this will help in finding all kind of plots , finding the number of null values , and feature engineering.
 
