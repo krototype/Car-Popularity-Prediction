@@ -1,11 +1,12 @@
-#**Car Popularity Prediction**
-##(This dataset came in the GS Codesprint 2018)
+# **Car Popularity Prediction**
 
-Problem Statement - We were given certain data about cars , and we had to predict the popularity of the cars. 
+## (This dataset came in the GS Codesprint 2018)
 
-Data to predict – popularity (of cars)
+**Problem Statement** - We were given certain data about cars , and we had to predict the popularity of the cars. 
 
-Predictors – 
+**Data to predict** – popularity (of cars)
+
+**Predictors** – 
 buying_price
 Maintainance_cost
 number_of_doors
@@ -30,4 +31,4 @@ pandas : https://pandas.pydata.org/
 sklearn SVM : http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
 
 
-Made By:Abhinav Srivastava
+**Made By:Abhinav Srivastava**
